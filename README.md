@@ -10,3 +10,4 @@ https://master.d2ew852i69it8q.amplifyapp.com/
 
 Color Changer was built using React and CSS.
 
+![image](https://github.com/dhutchings3/color-changer/blob/master/preview.png)
